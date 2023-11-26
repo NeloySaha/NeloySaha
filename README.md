@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neloy Saha</h1>
+<h1 align="left">Hi 👋, I'm Neloy Saha</h1>
 
 - 🚀 I'm a Front-End developer, currently making projects and learning new things everyday😄.
 - 🌱 I’m currently learning Backend Development(**NodeJs, Express and MongoDB**)
