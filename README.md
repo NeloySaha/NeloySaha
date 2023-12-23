@@ -23,7 +23,8 @@
 <p align="left"> 
  👻 Visitor count
   <br>
-<img src="https://profile-counter.glitch.me/NeloySaha/count.svg" alt="Visitor Couner"/>
+<img src="https://visit-counter.vercel.app/counter.png?page=NeloySaha" alt="Visitor Counter"/>
+
 
 </p>
 
