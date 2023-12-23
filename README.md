@@ -23,7 +23,7 @@
 <p align="left"> 
  👻 Visitor count
   <br>
+<img src="https://profile-counter.glitch.me/NeloySaha/count.svg" alt="Visitor Couner"/>
 
-<img src="https://profile-counter.glitch.me/NeloySaha/count.svg" />
 </p>
 
