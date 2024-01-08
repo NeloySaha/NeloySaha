@@ -18,7 +18,7 @@
 
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neloysaha&show_icons=true&locale=en&layout=compact" alt="neloysaha" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-lac.vercel.app/api/top-langs?username=NeloySaha&show_icons=true&locale=en&layout=compact" alt="neloysaha" /></p>
 
 <p align="left"> 
  👻 Visitor count
