@@ -2,7 +2,7 @@
 
 - I'm a Front-End developer, making projects and learning new things everyday😄.
 - I'm currently a undergraduate CSE student at <a href="https://www.bracu.ac.bd/">BRAC University.</a>
-- I’m currently learning Backend Development(**NodeJs, Express and MongoDB**)
+- I’m currently learning **TypeScript, TailwindCSS and different libraries of React Ecosystem** 🤓.
 
 <h3 align="left">👨‍💻Tech Stack</h3>
 <div>
