@@ -4,7 +4,7 @@
 - I'm a undergraduate CSE student at <a href="https://www.bracu.ac.bd/">BRAC University.</a>
 - I’m currently focusing on **Next.js, and Stripe** 🤓.
 
-If you want me to build a website for you, then mail me at: neloy.saha456@gmail.com
+🔧 If you want me to build a website for you, then mail me at: neloy.saha456@gmail.com
 
 <h3 align="left">👨‍💻Tech Stack</h3>
 <div>
