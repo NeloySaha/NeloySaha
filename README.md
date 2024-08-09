@@ -2,7 +2,7 @@
 
 - I'm a Front-End developer, making projects, learning new things everyday😄 and looking out for a job🧐.
 - I'm a undergraduate CSE student at <a href="https://www.bracu.ac.bd/">BRAC University.</a>
-- I’m currently focusing on **Next.js, and Stripe** 🤓.
+- I’m currently focusing on **Express, and MongoDB** 🤓.
 
 🔧 If you want me to build a website for you, then find me on fiverr: https://www.fiverr.com/s/Q7N4jEy
 
