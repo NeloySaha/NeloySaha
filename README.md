@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Neloy Saha</h1>
 
 - I'm a Front-End developer, making projects, learning new things everyday😄 and looking out for a job🧐.
-- I'm an undergraduate CSE student at <a href="https://www.bracu.ac.bd/">BRAC University.</a>
+- I'm an undergraduate CSE student at <a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a> and Lead Developer of <a href="https://duoseats.com" target="_blank">Duos Eats</a>.
 - I’m currently exploring **Express, and MongoDB** 🤓.
+
 
 🔧 If you want me to build a website for you, then find me on fiverr: https://www.fiverr.com/s/Q7N4jEy or, upwork: https://www.upwork.com/freelancers/~01971dd743d794b687?mp_source=share
 
