@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm Neloy Saha</h1>
 
+🛡️Lead Developer of <a href="https://duoseats.com" target="_blank">Duos Eats</a>
+
+
 - I'm a Front-End developer, making projects, learning new things everyday😄 and looking out for a job🧐.
-- I'm an undergraduate CSE student at <a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a> and Lead Developer of <a href="https://duoseats.com" target="_blank">Duos Eats</a>.
+- I'm an undergraduate CSE student at <a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a>.
 - I’m currently exploring **Express, and MongoDB** 🤓.
 
 
