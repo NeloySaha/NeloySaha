@@ -7,6 +7,8 @@
 - I'm an undergraduate CSE student at <a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a>.
 - I’m currently exploring **Express, and MongoDB** 🤓.
 
+<h2>Reach me at - <a href="mailTo:neloy.saha456@gmail.com" target="_blank">neloy.saha456@gmail.com</a></h2>
+
 
 🔧 If you want me to build a website for you, then find me on fiverr: https://www.fiverr.com/s/Q7N4jEy or, upwork: https://www.upwork.com/freelancers/~01971dd743d794b687?mp_source=share
 
