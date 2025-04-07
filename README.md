@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Neloy Saha</h1>
 
-<h3>Lead Developer of <a href="https://duoseats.com" target="_blank">DUOS EATS</a></h3>
+<h3>Developer of <a href="https://duoseats.com" target="_blank">DUOS EATS</a></h3>
 
 
 - I'm a Front-End developer, making projects, learning new things everyday😄 and looking out for a job🧐.
